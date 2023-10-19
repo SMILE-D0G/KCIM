@@ -1,11 +1,12 @@
 ## Комп'ютерні системи імітаційного моделювання
-## СПм-22-11, **Іванов Іван Іванович**
+## СПм-22-3, **Близнюк Олександр Валерiйович**
 ### Лабораторна робота №**2**. Редагування імітаційних моделей у середовищі NetLogo
 
 <br>
 
-### Варіант 0, модель у середовищі NetLogo:
-[Traffic Basic](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Social%20Science/Traffic%20Basic.nlogo)
+### Варіант 3, модель у середовищі NetLogo:
+[Virus]
+(https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Virus.nlogo)
 
 <br>
 
